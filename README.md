@@ -3,18 +3,16 @@ CQG Internship 2025
 
 ## Расписание лекций
 
-## Расписание лекций
-
- Дата  | Занятие
--------|--------
-4  сен | [Системы контроля версий](<1. Version Control Systems/VCS. Git. GitHub.pdf>)
-18 сен | Прототип микросервиса
-2  окт | Искусство отладки
-16 окт | Контейнеры
-30 окт | Прикладной Python
-13 ноя | Микросервисы, часть 1
-27 ноя | Микросервисы, часть 2
-11 дек | Многопоточность
+ Дата  | Занятие | Преподаватели
+-------|--------|--------
+4  сен | [Системы контроля версий](<1. Version Control Systems/VCS. Git. GitHub.pdf>) | vadimkorolev66, denis-adamchuk
+18 сен | Прототип микросервиса | denis-adamchuk, vadimkorolev66
+2  окт | Искусство отладки | denis-adamchuk, vadimkorolev66
+16 окт | Контейнеры | kirillshipitsyn, podgornovAV
+30 окт | Прикладной Python | podgornovAV,  kirillshipitsyn
+13 ноя | Микросервисы, часть 1 | Elantiri, denis-adamchuk
+27 ноя | Микросервисы, часть 2 | Elantiri, denis-adamchuk
+11 дек | Многопоточность | eugeneko, denis-adamchuk
 
 Лекции начинаются в 15:30 в MS Teams. Ссылки-приглашения на лекции были отправлены участникам по почте 1 сентября.
 
