@@ -6,7 +6,7 @@ CQG Internship 2025
  Дата  | Занятие | Преподаватели
 -------|--------|--------
 4  сен | [Системы контроля версий](<1. Version Control Systems/VCS. Git. GitHub.pdf>) | vadimkorolev66, denis-adamchuk
-18 сен | Прототип микросервиса | denis-adamchuk, vadimkorolev66
+18 сен | [Прототип микросервиса](<2. Prototype/Prototype.pdf>) | denis-adamchuk, vadimkorolev66
 2  окт | Искусство отладки | denis-adamchuk, vadimkorolev66
 16 окт | Контейнеры | kirillshipitsyn, podgornovAV
 30 окт | Прикладной Python | podgornovAV,  kirillshipitsyn
