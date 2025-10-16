@@ -8,7 +8,7 @@ CQG Internship 2025
 4  сен | [Системы контроля версий](<1. Version Control Systems/VCS. Git. GitHub.pdf>) | vadimkorolev66, denis-adamchuk
 18 сен | [Прототип микросервиса](<2. Prototype/Prototype.pdf>) | denis-adamchuk, vadimkorolev66
 2  окт | [Искусство отладки](<3. Debugging/Debugging.pdf>) | denis-adamchuk, vadimkorolev66
-16 окт | Контейнеры | kirillshipitsyn, podgornovAV
+16 окт | [Контейнеры](<4. Containers/Containers.pdf>) | kirillshipitsyn, podgornovAV
 30 окт | Прикладной Python | podgornovAV,  kirillshipitsyn
 13 ноя | Микросервисы, часть 1 | Elantiri, denis-adamchuk
 27 ноя | Микросервисы, часть 2 | Elantiri, denis-adamchuk
