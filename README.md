@@ -9,7 +9,7 @@ CQG Internship 2025
 18 сен | [Прототип микросервиса](<2. Prototype/Prototype.pdf>) | denis-adamchuk, vadimkorolev66
 2  окт | [Искусство отладки](<3. Debugging/Debugging.pdf>) | denis-adamchuk, vadimkorolev66
 16 окт | [Контейнеры](<4. Containers/Containers.pdf>) | kirillshipitsyn, podgornovAV
-30 окт | Прикладной Python | podgornovAV,  kirillshipitsyn
+30 окт | [Прикладной Python](<5. Python/Python.pdf>) | podgornovAV,  kirillshipitsyn
 13 ноя | Микросервисы, часть 1 | Elantiri, denis-adamchuk
 27 ноя | Микросервисы, часть 2 | Elantiri, denis-adamchuk
 11 дек | Многопоточность | eugeneko, denis-adamchuk
