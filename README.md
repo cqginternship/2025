@@ -10,9 +10,9 @@ CQG Internship 2025
 2  окт | [Искусство отладки](<3. Debugging/Debugging.pdf>) | denis-adamchuk, vadimkorolev66
 16 окт | [Контейнеры](<4. Containers/Containers.pdf>) | kirillshipitsyn, podgornovAV
 30 окт | [Прикладной Python](<5. Python/Python.pdf>) | podgornovAV,  kirillshipitsyn
-13 ноя | Микросервисы, часть 1 | Elantiri, denis-adamchuk
-27 ноя | Микросервисы, часть 2 | Elantiri, denis-adamchuk
-11 дек | Многопоточность | eugeneko, denis-adamchuk
+13 ноя | [Микросервисы, часть 1](<6. Microservices 1/Микросервисы часть 1.pdf>) | Elantiri, denis-adamchuk
+27 ноя | [Микросервисы, часть 2](<7. Microservices 2/Microservices 2.pdf>) | Elantiri, denis-adamchuk
+11 дек | [Многопоточность](<8. Multithreading/Multithreading.pdf>) | eugeneko, denis-adamchuk
 
 Лекции начинаются в 15:30 в MS Teams. Ссылки-приглашения на лекции были отправлены участникам по почте 1 сентября.
 
