@@ -69,6 +69,6 @@ $ ./build/geo --debug --config ./geo-config.json --dist 20 --lat 38.730065 --lon
 
 Пример:
 ```
-$ ./build/geo --debug o --debug --config ./geo-config.json --dist 10 --lat 42.057485 --lon 48.288689 --filter 11
+$ ./build/geo --debug o --debug --config ./geo-config.json --dist 100 --lat 42.057485 --lon 48.288689 --filter 11
 ```
 Ожидаемый результат: Дагестан
