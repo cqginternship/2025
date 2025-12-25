@@ -45,7 +45,7 @@ $ ./build/geo --debug --config ./geo-config.json --dist 50 --lat 56 --lon 37 --f
 
 Пример:
 ```
-$ ./build/geo --debug o --debug --config ./geo-config.json --dist 50 --lat 44.183183 --lon 42.199114 --filter 2
+$ ./build/geo --debug --config ./geo-config.json --dist 50 --lat 44.183183 --lon 42.199114 --filter 2
 ```
 Ожидаемый результат: Ставропольский край и Карачаево-Черкесия
 
@@ -53,7 +53,7 @@ $ ./build/geo --debug o --debug --config ./geo-config.json --dist 50 --lat 44.18
 
 Пример:
 ```
-$ ./build/geo --debug o --debug --config ./geo-config.json --dist 25 --lat 41.116525 --lon 1.257839 --filter 4
+$ ./build/geo --debug --config ./geo-config.json --dist 25 --lat 41.116525 --lon 1.257839 --filter 4
 ```
 Ожидаемый результат: Catalunya
 
@@ -69,6 +69,6 @@ $ ./build/geo --debug --config ./geo-config.json --dist 20 --lat 38.730065 --lon
 
 Пример:
 ```
-$ ./build/geo --debug o --debug --config ./geo-config.json --dist 100 --lat 42.057485 --lon 48.288689 --filter 11
+$ ./build/geo --debug --config ./geo-config.json --dist 100 --lat 42.057485 --lon 48.288689 --filter 11
 ```
 Ожидаемый результат: Дагестан
